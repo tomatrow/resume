@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "AJ Caldwell",
+    "label": "<LABEL>",
+    "picture": "https://s3-us-west-2.amazonaws.com/com.ajcaldwell.public/2867210.jpg",
+    "email": "tomatrow@gmail.com",
+    "phone": "(760) 542-8599",
+    "summary": "<SUMMARY>",
+    "location": {
+      "address": "841 Rose Drive",
+      "postalCode": "CA 92083",
+      "city": "San Diego",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "toma_trow",
+        "url": "http://www.instagram.com/toma_trow"
+      }
+    ]
+  },
+  "volunteer": [
+    {
+      "organization": "The Core Jr High",
+      "position": "Helper",
+      "website": "http://www.calvaryvista.com/ministries/jrhigh/",
+      "startDate": "2015",
+      "summary": "Jr. High ministry at Calvary Vista."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mira Costa",
+      "area": "General",
+      "studyType": "Associate",
+      "startDate": "2012",
+      "endDate": "2015"
+    },
+    {
+      "institution": "UCSD",
+      "area": "Math/CS",
+      "studyType": "Bachelor",
+      "startDate": "2015",
+      "endDate": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "name": "iOS",
+      "level": "medium",
+      "keywords": [
+        "MapKit",
+        "Cocoapods"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "low",
+      "keywords": [
+        "Cognito",
+        "Messaging",
+        "Mobile Hub",
+        "DynamoDB"
+      ]
+    },
+    {
+      "name": "fish",
+      "level": "medium"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Anime",
+      "keywords": [
+        "mecha"
+      ]
+    },
+    {
+      "name": "Bicycling",
+      "keywords": [
+        "road",
+        "coast"
+      ]
+    },
+    {
+      "name": "SciFi/Fantasy Books", 
+      "keywords": [
+        "Stormlight Archive",
+        "Wheel of Time",
+        "Mistborn",
+        "Lord of the Rings"
+      ]
+    }
+  ]
+}
