@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "AJ Caldwell",
-    "label": "<LABEL>",
+    "label": "Freelancer,
     "picture": "https://s3-us-west-2.amazonaws.com/com.ajcaldwell.public/2867210.jpg",
     "email": "tomatrow@gmail.com",
     "phone": "(760) 542-8599",
-    "summary": "<SUMMARY>",
+    "summary": "I don't have any practical experience, or a large set of skills. I can complete a task.",
     "location": {
       "address": "841 Rose Drive",
       "postalCode": "CA 92083",
@@ -51,8 +51,6 @@
       "name": "iOS",
       "level": "medium",
       "keywords": [
-        "MapKit",
-        "Cocoapods"
       ]
     },
     {
