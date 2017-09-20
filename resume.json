@@ -49,19 +49,11 @@
   "skills": [
     {
       "name": "iOS",
-      "level": "medium",
-      "keywords": [
-      ]
+      "level": "medium"
     },
     {
       "name": "AWS",
-      "level": "low",
-      "keywords": [
-        "Cognito",
-        "Messaging",
-        "Mobile Hub",
-        "DynamoDB"
-      ]
+      "level": "low"
     },
     {
       "name": "fish",
@@ -86,9 +78,7 @@
       "name": "SciFi/Fantasy Books", 
       "keywords": [
         "Stormlight Archive",
-        "Wheel of Time",
-        "Mistborn",
-        "Lord of the Rings"
+        "Wheel of Time"
       ]
     }
   ]
