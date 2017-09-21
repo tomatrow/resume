@@ -21,6 +21,8 @@
 - jsonresume
 - waifu2x
 
+##### Aggregators 
+- [Who Is Hiring?](https://whoishiring.io)
 
 ##### Places 
 - Temp
