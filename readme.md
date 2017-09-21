@@ -1,5 +1,19 @@
 ### Resume
 
+##### Main idea
+* For each description: 
+    - select attributes: 
+        + color scheme 
+        + keywords 
+    - construct resume 
+        + select items from premade lists of: work, skills, interests etc
+        + construct summary based on keywords 
+        + generate theme based on scheme 
+        + tag with: full description, datetime
+
+##### Caveats 
+* Note. Temp agencies still require you to apply to specific postings. 
+
 ##### Structure 
 - The versions directory is for tailored resumes. 
 
