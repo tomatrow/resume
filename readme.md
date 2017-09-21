@@ -25,6 +25,8 @@
 - [Who Is Hiring?](https://whoishiring.io)
 
 ##### Places 
+- Local 
+    + [x] [Viasat](https://www.viasat.com)
 - Temp
     + [x] [Adecco](https://www.adeccousa.com)
     + [x] [Manpower](https://www.manpower.com)
