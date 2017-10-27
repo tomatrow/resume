@@ -1,0 +1,69 @@
+/* #*/ export const PERSON = `
+
+# Note from Sam: 
+# * Add
+#     * Robotics 
+
+# Note from Julie:
+# * Adjust fonts so that:
+#     * School names are on one line and look good. 
+# * Add:
+#     * Apps:
+#         * Coffeefilter 
+#         * Blendie
+#     * CompSci Classes
+#     * Volunteer stuff 
+
+
+name:
+  first: AJ
+  middle: Arriola
+  last: Caldwell
+about: I'm AJ. I graduated with a Bachelor's in Mathematics-Computer Science this year. 
+       Have one iOS app shipped and am currently building @CoffeeFilterApp. 
+       My goto languages are Swift, Fish, and Julia.
+position: Freelancer
+
+birth:
+  year: 1993
+  location: San Diego
+
+experience:
+
+education:
+- degree: Bachelor of Science
+  timeperiod: September 2015 - June 2017
+  description: Major in Mathematics-Computer Science, UCSD, San Diego, USA. 
+- degree: Associates of Science
+  timeperiod: October 2012 - May 2015
+  description: Mathematics for Transfer, Mira Costa, San Diego, USA. 
+- degree: Associate of Arts
+  timeperiod: October 2012 - May 2015
+  description: Computer Science, Mira Costa, San Diego, USA. 
+
+# skill level goes 0 to 100
+skills:
+- name: Swift
+  level: 80
+- name: Objective-C
+  level: 70
+- name: fish
+  level: 90
+- name: julia
+  level: 50
+- name: AWS 
+  level: 30
+
+
+knowledge: Also proficient in Modern Algebra well versed in Epic-Fantasy. 
+
+contact:
+  email: tomatrow@gmail.com
+  phone: 1760 5428599
+  street: 841 Rose Drive
+  city: Vista
+  website: tomatrow.github.io
+  github: tomatrow
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, nl, he, zh-tw, lt, ko
+lang: en
+`
