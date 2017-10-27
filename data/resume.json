@@ -1,11 +1,12 @@
 {
   "basics": {
     "name": "AJ Caldwell",
-    "label": "Freelancer",
+    "label": "iOS Freelancer",
     "picture": "https://s3-us-west-2.amazonaws.com/com.ajcaldwell.public/2867210.jpg",
     "email": "tomatrow@gmail.com",
     "phone": "(760) 542-8599",
-    "summary": "I'm AJ. I graduated with a Bachelor's in Mathematics-Computer Science this year. Have one iOS app shipped and am currently building @CoffeeFilterApp. My goto languages are Swift for the complicated, Fish for the simple, and Julia for the mathematical.",
+    "website": "https://tomatrow.github.io",
+    "summary": "I'm AJ. I graduated with a Bachelor's in Mathematics-Computer Science this year. Have one iOS app shipped and am currently building @CoffeeFilterApp. My goto languages are Swift, Fish, and Julia.",
     "location": {
       "address": "841 Rose Drive",
       "postalCode": "CA 92083",
