@@ -1,0 +1,102 @@
+# Note from Sam: 
+# * Add
+#     * Robotics 
+
+# Note from Julie:
+# * Adjust fonts so that:
+#     * School names are on one line and look good. √
+# * Compact the skill portion. 
+# * Add:
+#     * Apps:
+#         * Coffeefilter  √
+#         * Blendie √
+#     * CompSci Classes X
+#     * Volunteer stuff  √
+
+ 
+
+name:
+  first: AJ
+  middle: Arriola
+  last: Caldwell
+about: I'm AJ. I graduated with a Bachelor's in Mathematics-Computer Science this year. 
+       Have one iOS app shipped and am currently building @CoffeeFilterApp. 
+       My goto languages are Fish, Ruby, and Swift (in that order).
+position: Freelancer
+
+birth:
+  year: 1993
+  location: San Diego
+
+experience:
+
+volunteering:
+  - role: Leader
+    organization: The Core Jr High
+    description: Church group for 6th-8th grades. 
+    timeperiod: 2015 - Current
+
+apps:
+- name: Coffeefilter
+  description: Curated coffee finder for iOS
+  language: Swift
+  technologies: 
+  - name: MapKit
+    author: Apple
+  - name: DynamoDB
+    author: Amazon
+  - name: Cognito 
+    author: Amazon
+  - name: Fusion API 
+    author: Yelp
+  - name: Places API
+    author: Google
+- name: Blendie
+  description: Selfie/scenery image blender 
+  language: Objective-C
+  technologies: 
+  - name: Core Image
+    author: Apple
+  - name: GPUImage 
+    author: Brad larson
+  - name: DBCamera
+    author: Daniele Bogo
+
+education:
+- degree: Bachelor of Science
+  timeperiod: September 2015 - June 2017
+  description: Mathematics-Computer Science, UC San Diego
+- degree: Associates of Science
+  timeperiod: October 2012 - May 2015
+  description: Mathematics for Transfer, MiraCosta, Oceanside
+- degree: Associate of Arts
+  timeperiod: October 2012 - May 2015
+  description: Computer Science, MiraCosta, Oceanside
+
+# skill level goes 0 to 100
+skills:
+- name: Swift
+  level: 80
+- name: Objective-C
+  level: 70
+- name: fish
+  level: 90
+- name: julia
+  level: 50
+- name: AWS 
+  level: 30
+- name: ruby
+  level: 40
+
+knowledge: Also proficient in Modern Algebra well versed in Epic-Fantasy. 
+
+contact:
+  email: ajcaldwell@ucsd.edu
+  phone: 17605428599
+  street: 841 Rose Drive
+  city: Vista
+  website: tomatrow.github.io
+  github: tomatrow
+
+# Note. One of many, but you should still localize. 
+lang: en
